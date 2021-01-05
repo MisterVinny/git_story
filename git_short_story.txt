@@ -4,3 +4,6 @@ The cat kicked it's owner out.
 The cat lived happily ever after.
 The end.
 Then the owner came back.
+To bring the cat some food.
+The cat took the food.
+And kicked the owner back out.
